@@ -53,3 +53,11 @@ BSc Industrial and Information Management
 ## Let's Connect
 
 📧 **Email:** linch8855@gmail.com
+
+## Academic Project
+
+This repository is based on my MSc Data Science dissertation project completed at the University of Edinburgh in 2026.
+
+It contains selected implementation code and aggregate evaluation results prepared for portfolio and reproducibility purposes.
+
+Raw user-generated text, user identifiers, per-user predictions, restricted datasets, the privately supplied psychological lexicon, and trained model weights are not redistributed in this repository.
