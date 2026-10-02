@@ -36,6 +36,20 @@ GPU inference profiling and optimization for a GLM-ASR speech recognition pipeli
 
 [View Project →](https://github.com/Lilyvu06/glm-asr-gpu-optimization)
 
+---
+
+### 🎵 Music Popularity Prediction & Explainable ML
+**Python · scikit-learn · LightGBM · XGBoost · SHAP**
+
+Analyzed Spotify Top 200 data to investigate the drivers of song popularity using interpretable machine learning.
+
+- Contributed to data cleaning, preprocessing, and feature engineering
+- Designed and implemented classification experiments across multiple machine learning models
+- Compared Logistic Regression, Decision Tree, Random Forest, XGBoost, and LightGBM
+- Applied interpretable ML analysis to understand key drivers of song popularity
+
+[View Project →](https://github.com/Lilyvu06/spotify-popularity-ml)
+
 ## Technical Skills
 
 **Programming:** Python · SQL · C++ · VBA
