@@ -1,4 +1,6 @@
-# Hi, I'm Lily 👋
+<p align="center">
+  <img src="github-profile-banner.png" width="100%" alt="Lily Lin - Applied AI, Machine Learning and Data Science">
+</p>
 
 **MSc Data Science | Applied AI & Machine Learning**
 
